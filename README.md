@@ -3,11 +3,6 @@
 Calculadora para la interpretación de relaciones iónicas (hidroquímica) — Facultad de Ciencias Exactas y Naturales.
 Sitio estático: se ejecuta en el navegador, sin servidor ni instalación.
 
-## Publicar en GitHub Pages
-1. Subir estos archivos a la raíz del repositorio `calculadoraHidrica`.
-2. En GitHub: **Settings → Pages → Build and deployment → Source: Deploy from a branch**, elegir la rama `main` y la carpeta `/ (root)`.
-3. La calculadora quedará en `https://TU-USUARIO.github.io/calculadoraHidrica/`.
-
 ## Archivos
 - `index.html`, `styles.css` — interfaz.
 - `js/calculos.js` — cálculos e informe (equivalente al programa en Python).
