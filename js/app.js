@@ -110,7 +110,7 @@
     img.addEventListener("error", () => {
       img.alt = "FCEyN";
     });
-    img.src = "assets/logo-fceyn.png";
+    img.src = "assets/logo-fceyn-2.png";
   });
 
   // ------------------------------------------------------------
